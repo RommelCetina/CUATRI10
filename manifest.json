@@ -1,0 +1,53 @@
+{
+    "lang": "es-MX",
+    "name": "tarea1",
+    "short_name": "manifest",
+    "description": "tarea 1 william pwa.",
+    "start_url": "/cuatri10/selenium_ide/alumnos.php",
+    "display": "standalone",
+    "background_color": "#D7FFB9",
+    "theme_color": "#1FE41F",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "/cuatri10/selenium_ide/img/icon72.png",
+            "type": "image/png",
+            "sizes": "72x72"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon96.png",
+            "type": "image/png",
+            "sizes": "96x96"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon128.png",
+            "type": "image/png",
+            "sizes": "128x128"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon144.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon152.png",
+            "type": "image/png",
+            "sizes": "152x152"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon384.png",
+            "type": "image/png",
+            "sizes": "384x384"
+        },
+        {
+            "src": "/cuatri10/selenium_ide/img/icon512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ]
+}
